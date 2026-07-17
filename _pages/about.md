@@ -1,6 +1,6 @@
 ---
-layout: B3H
-title: B3H
+layout: about
+title: about
 permalink: /
 subtitle: 
 
